@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xkirax/Dropbox/CPP/coursera/white/w_4_pa_4_files/files_part_1.cpp
+iostream
+-
+fstream
+-
+string
+-
+
+/Users/xkirax/Dropbox/CPP/coursera/white/w_4_pa_4_files/files_part_2.cpp
+iostream
+-
+fstream
+-
+string
+-
+

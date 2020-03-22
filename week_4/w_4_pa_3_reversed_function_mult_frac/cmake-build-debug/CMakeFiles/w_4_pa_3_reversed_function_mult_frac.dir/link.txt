@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/w_4_pa_3_reversed_function_mult_frac.dir/main.cpp.o CMakeFiles/w_4_pa_3_reversed_function_mult_frac.dir/function.cpp.o  -o w_4_pa_3_reversed_function_mult_frac 

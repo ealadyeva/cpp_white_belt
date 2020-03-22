@@ -1,0 +1,3 @@
+/Users/xkirax/Dropbox/CPP/coursera/white/w_5_pa_1_final_assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xkirax/Dropbox/CPP/coursera/white/w_5_pa_1_final_assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xkirax/Dropbox/CPP/coursera/white/w_5_pa_1_final_assignment/cmake-build-debug/CMakeFiles/w_5_pa_1_final_assignment.dir

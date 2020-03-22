@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xkirax/Dropbox/CPP/coursera/white/w_4_pa_8_rational/part_4_main.cpp
+iostream
+-
+sstream
+-
+

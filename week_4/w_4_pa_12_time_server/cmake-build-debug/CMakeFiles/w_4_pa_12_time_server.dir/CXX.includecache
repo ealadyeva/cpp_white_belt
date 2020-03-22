@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xkirax/Dropbox/CPP/coursera/white/w_4_pa_12_time_server/main.cpp
+iostream
+-
+exception
+-
+string
+-
+

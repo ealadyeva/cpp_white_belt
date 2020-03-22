@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/w_4_pa_4_files.dir/files_part_2.cpp.o CMakeFiles/w_4_pa_4_files.dir/files_part_1.cpp.o  -o w_4_pa_4_files 

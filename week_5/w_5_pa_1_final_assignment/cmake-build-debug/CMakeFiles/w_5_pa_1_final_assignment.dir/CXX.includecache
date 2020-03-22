@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xkirax/Dropbox/CPP/coursera/white/w_5_pa_1_final_assignment/main.cpp
+iostream
+-
+string
+-
+map
+-
+set
+-
+sstream
+-
+iomanip
+-
+

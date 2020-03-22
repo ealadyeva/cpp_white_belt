@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xkirax/Dropbox/CPP/coursera/white/w_4_pa_2_reversed_function/function.cpp
+algorithm
+-
+vector
+-
+
+/Users/xkirax/Dropbox/CPP/coursera/white/w_4_pa_2_reversed_function/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
